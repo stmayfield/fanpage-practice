@@ -6,7 +6,7 @@ This webpage is sourced from a UCD-SAC excercise fpr "Prework Module 4." It's pr
 
 This webpage also served to function as an ironic take on a fan page for a popular rock band from the late 90s and early 00s.
 
-The webpage is hosted on GitPages and can be found at [Nickelback "Fan" Page](#)
+The webpage is hosted on GitPages and can be found at [Nickelback "Fan" Page](https://stmayfield.github.io/fanpage-practice/)
 
 If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
